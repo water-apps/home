@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Water Apps
 
 You can use the [editor on GitHub](https://github.com/water-apps/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
